@@ -61,7 +61,7 @@ if __name__ == "__main__":
     print("\n*********** A Maze ing ***********!!!\n")
     play(maze)
 
-    #we are at of the Maze
+    #we are out of the Maze
     print("*********** A Maze out ***********!!!")
     print(maze)
 
